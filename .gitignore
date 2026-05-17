@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / temp
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.local
+
+# Test images
+test_receipt.jpg
